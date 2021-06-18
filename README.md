@@ -12,7 +12,7 @@ git clone https://github.com/MauricioAli/Celery_python
 cd Celery_python
 python3.8 -m venv venv
 source venv/bin/activate
-pip install requirements.txt
+pip install -r requirements.txt
 
 ````
 ## Nota: para poder visualizar todo estos comandos debe correrlos en 2 terminales separadas con el entorno virtual del      proyecto iniciado
